@@ -53,12 +53,12 @@ pip install requests dnspython python-whois beautifulsoup4
 ## 2. Penggunaan:
 
 ```bash
-python forensic_tools.py suspicious-domain.com --output report.json
+python forensic_tools.py domain --output report.json
 
 ```
 
 ## 3. Menggunakan API KEY Shodan
 ```bash
-python3 forensik_update.py kemendagrimyregis.com --shodan-key --output hasil.json
+python3 forensik_update.py domain --shodan-key --output hasil.json
 
 ```
