@@ -62,3 +62,9 @@ python forensic_tools.py domain --output report.json
 python3 forensik_update.py domain --shodan-key --output hasil.json
 
 ```
+
+## 4. Butuh Bantuan?
+```bash
+python3 forensik_update.py --help
+
+```
