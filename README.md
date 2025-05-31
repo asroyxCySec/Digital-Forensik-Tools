@@ -1,5 +1,7 @@
 # 🛠️ Deskripsi Tools
 
+[![Tonton Video](https://img.youtube.com/vi/NoiIDszhnyI/hqdefault.jpg)](https://www.youtube.com/watch?v=NoiIDszhnyI)
+
 ### Tools ini bernama **Digital Forensic Tools for Phishing Website Analysis v2.0**. Ini adalah skrip Python yang dikembangkan oleh seorang Digital Forensic Specialist untuk melakukan analisis forensik digital terhadap domain atau situs yang dicurigai sebagai phishing.
 
 Tools ini menyediakan berbagai macam modul dan fungsi analisis, baik secara aktif maupun pasif, terhadap target domain yang mencakup:
@@ -68,3 +70,5 @@ python3 forensik_update.py domain --shodan-key --output hasil.json
 python3 forensik_update.py --help
 
 ```
+
+
